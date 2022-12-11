@@ -1,0 +1,41 @@
+{
+  "name": "8-point-butterfly-of-dft",
+  "version": "1.0.0",
+  "description": "Backend code for webapp on Butterfly method of finding FFT and IFT in time and frequency domains",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guruprasad-G/8-point-Butterfly-of-DFT.git"
+  },
+  "keywords": [
+    "DFT",
+    "IDFT",
+    "FFT",
+    "IFFT",
+    "Fourier",
+    "Transform",
+    "Signal",
+    "Processing",
+    "Butterfly",
+    "structures",
+    "DSP",
+    "Image",
+    "Processing"
+  ],
+  "author": "Guruprasad G",
+  "license": "CC-BY-ND-3.0",
+  "bugs": {
+    "url": "https://github.com/Guruprasad-G/8-point-Butterfly-of-DFT/issues"
+  },
+  "homepage": "https://github.com/Guruprasad-G/8-point-Butterfly-of-DFT#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
